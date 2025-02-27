@@ -14,6 +14,11 @@ Customizable window sizes for multi-scale analysis.
 
 Outputs LCF as a raster file for further geospatial analysis.
 
+
+![image](https://github.com/user-attachments/assets/e31c905a-8fa8-4762-a310-e5d504f25bbb)     ![image](https://github.com/user-attachments/assets/3ac38091-89e3-4929-8295-3d6f88c4b2d2)
+
+
+
 📊 Applications
 
 LCF is particularly useful in geomorphology and hazard assessment, including:
