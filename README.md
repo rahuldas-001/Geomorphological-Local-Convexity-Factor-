@@ -14,8 +14,7 @@ Customizable window sizes for multi-scale analysis.
 
 Outputs LCF as a raster file for further geospatial analysis.
 
-
-![image](https://github.com/user-attachments/assets/e31c905a-8fa8-4762-a310-e5d504f25bbb)  ![image](https://github.com/user-attachments/assets/67e7383f-becb-44ca-a336-a1f2ef216e97)
+![image](https://github.com/user-attachments/assets/bc0a8b53-fd2b-4b0a-8d3f-d5a58e518c96)![image](https://github.com/user-attachments/assets/67e7383f-becb-44ca-a336-a1f2ef216e97)
 
 
 
