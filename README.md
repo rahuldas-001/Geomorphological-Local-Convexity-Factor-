@@ -6,13 +6,13 @@ The Local Convexity Factor (LCF) is a geospatial metric that quantifies the conv
 
 Processes DEM data to compute LCF at each pixel.
 
-Uses Gaussian surface comparison to identify local convexity and concavity.
+1. Uses Gaussian surface comparison to identify local convexity and concavity.
 
-Applies Pearson correlation for quantitative measurement.
+2. Applies Pearson correlation for quantitative measurement.
 
-Customizable window sizes for multi-scale analysis.
+3. Customizable window sizes for multi-scale analysis.
 
-Outputs LCF as a raster file for further geospatial analysis.
+4. Outputs LCF as a raster file for further geospatial analysis.
 
 ![image](https://github.com/user-attachments/assets/bc0a8b53-fd2b-4b0a-8d3f-d5a58e518c96)![image](https://github.com/user-attachments/assets/67e7383f-becb-44ca-a336-a1f2ef216e97)
 
@@ -23,12 +23,12 @@ Outputs LCF as a raster file for further geospatial analysis.
 
 LCF is particularly useful in geomorphology and hazard assessment, including:
 
-Landslide Susceptibility Analysis: Identifies convex landforms prone to failure.
+1. Landslide Susceptibility Analysis: Identifies convex landforms prone to failure.
 
-Flood Susceptibility Mapping: Highlights depressions and low-lying flood-prone regions.
+2. Flood Susceptibility Mapping: Highlights depressions and low-lying flood-prone regions.
 
-Terrain Classification: Distinguishes between valleys, ridges, and plateaus.
+3. Terrain Classification: Distinguishes between valleys, ridges, and plateaus.
 
-Hydrological & Erosion Studies: Helps in modeling surface runoff patterns.
+4. Hydrological & Erosion Studies: Helps in modeling surface runoff patterns.
 
 
