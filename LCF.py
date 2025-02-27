@@ -40,7 +40,7 @@ def compute_lcf(dem, min_window=2, max_window=50):
             for window_size in range(min_window, max_window+1, 2):
                 half_w = window_size // 2
 
-                # Ensure window is within bounds
+                
                 if (i - half_w >= 0 and i + half_w < rows) and (j - half_w >= 0 and j + half_w < cols):
                     local_window = dem[i-half_w:i+half_w+1, j-half_w:j+half_w+1]
                     local_window = normalize(local_window)  # Normalize per window
